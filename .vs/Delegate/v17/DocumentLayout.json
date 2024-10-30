@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6771F786-2375-4896-B179-9EDC20933C55}|Delegate\\Delegate.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6771F786-2375-4896-B179-9EDC20933C55}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771F786-2375-4896-B179-9EDC20933C55}|Delegate\\Delegate.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\delegate\\delegate\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6771F786-2375-4896-B179-9EDC20933C55}|Delegate\\Delegate.csproj|solutionrelative:delegate\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6771F786-2375-4896-B179-9EDC20933C55}|Delegate\\Delegate.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\delegate\\delegate\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6771F786-2375-4896-B179-9EDC20933C55}|Delegate\\Delegate.csproj|solutionrelative:delegate\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Delegate\\Delegate\\Exam.cs",
+              "RelativeDocumentMoniker": "Delegate\\Exam.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Delegate\\Delegate\\Exam.cs",
+              "RelativeToolTip": "Delegate\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:42:38.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Delegate\\Delegate\\Person.cs",
+              "RelativeDocumentMoniker": "Delegate\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Delegate\\Delegate\\Person.cs",
+              "RelativeToolTip": "Delegate\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:42:22.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Delegate\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Delegate\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:41:12.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
